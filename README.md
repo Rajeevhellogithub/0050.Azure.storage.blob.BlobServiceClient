@@ -1,0 +1,1 @@
+# 0050.Azure.storage.blob.BlobServiceClient
